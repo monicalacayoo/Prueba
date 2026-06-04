@@ -1,0 +1,5 @@
+Qué es GitHub
+-es un programa para llevar control de versiones 
+
+Qué es GitHub
+-es un programa en el cual se puede compartir o trabajar en conjunto un código de manera remota entre varias personas 
